@@ -49,8 +49,3 @@ This is my project on **Sentiment Analysis**, built with a graphical user interf
 - Extend support for non-English languages
 
 ---
-
-## ⚠️ NOTE
-This code is **fully updated**, but the **classification reports and charts** were generated using an older version of the code and **may not exactly reflect the current model output.**
-
----
